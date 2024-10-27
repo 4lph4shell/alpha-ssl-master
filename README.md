@@ -22,7 +22,12 @@ alphaSSL is a script to quickly obtain SSL certificates for your domains. It sup
    ```
 
 2. **Run the Script:**
+
+<br>
    <img  src="https://github.com/4lph4shell/alpha-ssl-master/blob/master/00.png" />
+
+   <br>
+   
    ```bash
    essl <email> <domain1 domain2 ...> <destination>
    ```
